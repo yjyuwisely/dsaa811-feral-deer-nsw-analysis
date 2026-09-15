@@ -6,6 +6,8 @@
 
 This project investigates the spatial and temporal distribution of feral deer species (family *Cervidae*) in New South Wales (NSW), using data from the Atlas of Living Australia (ALA). The analysis was performed in R using tidyverse and visualisation tools to identify species frequency, geographic hotspots, and seasonal patterns.
 
+![Spatial distribution of feral deer observations across NSW](https://github.com/user-attachments/assets/9ec09382-3cbd-4034-b764-46d37187d04b)
+
 ---
 
 ## Project Overview
